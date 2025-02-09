@@ -29,4 +29,4 @@ Thank you to both projects for their dedication to the Android modding community
 
 ## License
 
-This project is licensed under the **MIT License** - see the [LICENSE]([LICENSE](https://opensource.org/license/mit)) for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://opensource.org/license/mit) for details.
