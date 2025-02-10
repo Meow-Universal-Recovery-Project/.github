@@ -4,7 +4,7 @@ Welcome to the official repository for the **Meow Universal Recovery Project (MU
 
 ## About
 
-**Meow Universal Recovery Project** is an open-source project aimed at providing a reliable, universal recovery for Android devices. The goal is to create a recovery that supports a wide variety of devices while maintaining high flexibility and ease of use.
+**Meow Universal Recovery Project** is an open-source fork of OrangeFox Recovery Project, aimed at providing a reliable, universal recovery for Android devices. The goal is to create a recovery that supports a wide variety of devices while maintaining high flexibility and ease of use.
 
 ## Key Features
 
