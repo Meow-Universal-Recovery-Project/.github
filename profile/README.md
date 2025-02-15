@@ -20,6 +20,10 @@ To get started with the Meow Universal Recovery Project, follow [this link](http
 
 We welcome contributions from the community! If you would like to contribute, please fork the repository, create a branch, and submit a pull request. Ensure that your changes follow the project's coding guidelines and add documentation where necessary.
 
+## Donate
+
+We don't accept donations. Instead, please consider giving to a charity, such as https://www.cats.org.uk/donate.
+
 ## Credits
 
 - **TWRP (Team Win Recovery Project)** for their foundational work in the Android recovery space.
